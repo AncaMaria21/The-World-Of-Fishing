@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "179745516951",
+    "project_id": "newfish-2848f",
+    "storage_bucket": "newfish-2848f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179745516951:android:875c4c8d2d6502876be8d2",
+        "android_client_info": {
+          "package_name": "edmt.dev.new_fish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179745516951-598q6ihqlqbk4lp2n7r6nvqnksgsjad9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edmt.dev.new_fish",
+            "certificate_hash": "0e1904ddd13858fa550cbca9a8a97757a9c70e72"
+          }
+        },
+        {
+          "client_id": "179745516951-o5avqor7njjp43ngkk56u69ibq3fpp7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edmt.dev.new_fish",
+            "certificate_hash": "66b8abfd61a91ddebcafea28e6d40ffb305cbe4e"
+          }
+        },
+        {
+          "client_id": "179745516951-t654hd35b9sckbc3ghccfsh868mb24ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2PECWpeRN95ZxTZBxphvPmizo-0AqtxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179745516951-t654hd35b9sckbc3ghccfsh868mb24ra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
